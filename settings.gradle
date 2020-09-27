@@ -1,0 +1,2 @@
+rootProject.name='VietnameseTTSEngine'
+include ':app'

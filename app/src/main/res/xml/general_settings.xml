@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="robot_speak_whisper"
+        android:title="Test"
+        android:summary="No content"
+        android:defaultValue="true"
+        android:persistent="true"
+        />
+
+
+</PreferenceScreen>

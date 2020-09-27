@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VietnameseTTSEngine</string>
+    <string name="general_settings">General settings</string>
+    <string name="vntext_sample">Xin chào đến với chúng tôi</string>
+    <string name="label_activity_process_text">Read aloud with VBee Speak</string>
+</resources>
